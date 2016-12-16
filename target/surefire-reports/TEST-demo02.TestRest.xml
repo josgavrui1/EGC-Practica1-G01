@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="demo02.TestRest" time="0.006" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="demo02.TestRest" time="0.009" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_111\jre\bin"/>
@@ -27,6 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
+    <property name="net.sourceforge.cobertura.datafile" value="C:\Users\Jose\Documents\EGC\Workspace 1\Prueba\target\cobertura\cobertura.ser"/>
     <property name="classworlds.conf" value="C:\apache-maven-3.3.9\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Git\cmd;C:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Program Files\nodejs\;C:\Python27;C:\gradle-3.2.1\bin;C:\Users\Jose\AppData\Local\Microsoft\WindowsApps;C:\Python27\Scripts;C:\Users\Jose\AppData\Roaming\npm;C:\Users\Jose\AppData\Local\atom\bin;."/>
@@ -59,9 +60,10 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="project.build.outputDirectory" value="C:\Users\Jose\Documents\EGC\Workspace 1\Prueba\target\generated-classes\cobertura"/>
     <property name="sun.stdout.encoding" value="cp850"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="demo02.TestRest" name="testResta" time="0.006"/>
+  <testcase classname="demo02.TestRest" name="testResta" time="0.009"/>
 </testsuite>
